@@ -1,7 +1,7 @@
 # LLM-powered projects
 
 This repo contains some use cases powered by LLMs, such as:
-* SQL Agents
+* SQL Agent
 * Sentiment Analysis
 * Coding assistant
 
